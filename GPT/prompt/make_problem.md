@@ -62,3 +62,11 @@ def solution(nums: list[int], target: int) -> list[int]:
 
 이 문제는 **해시맵**을 사용하는 것이 효율적이며, 시간 복잡도는 **O(N)**입니다. 정렬을 통한 투포인터 접근은 **O(N log N)** 복잡도를 가집니다.
 
+---
+**Contact Me**
+| 채널                        | 내용                                                          |
+|-----------------------------|--------------------------------------------------------------|
+| [링크드인](https://www.linkedin.com/in/ultrasuperrok/)               |  1촌 신청 환영 합니다. |
+| [오픈 채팅방](https://open.kakao.com/o/gX0WnTCf)             |  코딩 테스트 및 취준 관련 소통 공간 입니다. |
+| 메일                   | ultrasuperrok@gmail.com  |
+| [코딩 테스트 합격자 되기 C++ 강의](https://inf.run/H9yxm) |  알고리즘 무료 개념 강의 입니다. 자료도 같이 제공 합니다. |
