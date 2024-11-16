@@ -10,8 +10,6 @@
 4. 시간 복잡도를 낮추기 위해 대체 가능한 자료구조/알고리즘
 5. 조언할 사항
 
-<코드>
-# 1. O(N^2)로 배열에서 최대값 찾기
 ```python
 def find_max(arr):
     max_val = arr[0]
@@ -21,7 +19,7 @@ def find_max(arr):
                 max_val = arr[j]
     return max_val
 ```
-# 2. 배열의 맨 앞 원소 삭제
+
 ```python
 def remove_first_element(arr):
     new_arr = []
